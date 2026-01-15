@@ -1,2 +1,2 @@
 # demo-repo
-this is demo repository
+this is demo repository.
